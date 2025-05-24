@@ -2,6 +2,7 @@
     margin: 0;
     object-fit: contain;
     transition: 0.5s;
+    font-family: monospace;
 }
 body {
     background-color: #000000;
