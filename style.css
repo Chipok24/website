@@ -71,6 +71,11 @@ footer {
     color: white;
 
 }
+@media (max-width: 500px) {
+    .container img {
+    width: 100px;
+    }
+}
 /* .container {
     display: flex;
     flex: 1 1;
